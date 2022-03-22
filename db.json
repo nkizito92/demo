@@ -1,7 +1,10 @@
 {
-  "users": [ 
-    {"id": 1, "name": "James"},
-    {"id": 2, "name": "Mark"},
-    {"id": 3, "name": "Kizito"}
-   ]
+  "users":
+  {
+     "name": "James",
+     "phone": "998-884-8845",
+    "website": "www.google.com",
+    "email": "checkIsOut@games.com"
+  }
+   
 }

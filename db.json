@@ -1,6 +1,5 @@
 {
-  "users": 
-  [
+  "users": [
       {
          "name": "James",
          "phone": "998-884-8845",
@@ -20,6 +19,5 @@
          "phone": "445-799-4558",
         "website": "www.zoom.com",
         "email": "whatThisAre@codes.com"
-      },
-]
+      },]
 }

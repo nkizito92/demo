@@ -5,6 +5,19 @@
      "phone": "998-884-8845",
     "website": "www.google.com",
     "email": "checkThisOut@games.com"
-  }
-   
+  },
+  
+  { 
+    "name": "Will",
+     "phone": "888-888-8888",
+    "website": "www.bing.com",
+    "email": "thisIsCool@games.com"
+  },
+
+ { 
+    "name": "Frost",
+     "phone": "445-799-4558",
+    "website": "www.zoom.com",
+    "email": "whatThisAre@codes.com"
+  },
 }
